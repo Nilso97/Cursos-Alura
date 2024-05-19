@@ -1,0 +1,15 @@
+/home/docato/Área de Trabalho/Estudos/C#/c-sharp-consumindo-api-gravando-arquivos-linq/ScreamSoundAPI/bin/Debug/net7.0/ScreamSoundAPI
+/home/docato/Área de Trabalho/Estudos/C#/c-sharp-consumindo-api-gravando-arquivos-linq/ScreamSoundAPI/bin/Debug/net7.0/ScreamSoundAPI.deps.json
+/home/docato/Área de Trabalho/Estudos/C#/c-sharp-consumindo-api-gravando-arquivos-linq/ScreamSoundAPI/bin/Debug/net7.0/ScreamSoundAPI.runtimeconfig.json
+/home/docato/Área de Trabalho/Estudos/C#/c-sharp-consumindo-api-gravando-arquivos-linq/ScreamSoundAPI/bin/Debug/net7.0/ScreamSoundAPI.dll
+/home/docato/Área de Trabalho/Estudos/C#/c-sharp-consumindo-api-gravando-arquivos-linq/ScreamSoundAPI/bin/Debug/net7.0/ScreamSoundAPI.pdb
+/home/docato/Área de Trabalho/Estudos/C#/c-sharp-consumindo-api-gravando-arquivos-linq/ScreamSoundAPI/obj/Debug/net7.0/ScreamSoundAPI.csproj.AssemblyReference.cache
+/home/docato/Área de Trabalho/Estudos/C#/c-sharp-consumindo-api-gravando-arquivos-linq/ScreamSoundAPI/obj/Debug/net7.0/ScreamSoundAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/docato/Área de Trabalho/Estudos/C#/c-sharp-consumindo-api-gravando-arquivos-linq/ScreamSoundAPI/obj/Debug/net7.0/ScreamSoundAPI.AssemblyInfoInputs.cache
+/home/docato/Área de Trabalho/Estudos/C#/c-sharp-consumindo-api-gravando-arquivos-linq/ScreamSoundAPI/obj/Debug/net7.0/ScreamSoundAPI.AssemblyInfo.cs
+/home/docato/Área de Trabalho/Estudos/C#/c-sharp-consumindo-api-gravando-arquivos-linq/ScreamSoundAPI/obj/Debug/net7.0/ScreamSoundAPI.csproj.CoreCompileInputs.cache
+/home/docato/Área de Trabalho/Estudos/C#/c-sharp-consumindo-api-gravando-arquivos-linq/ScreamSoundAPI/obj/Debug/net7.0/ScreamSoundAPI.dll
+/home/docato/Área de Trabalho/Estudos/C#/c-sharp-consumindo-api-gravando-arquivos-linq/ScreamSoundAPI/obj/Debug/net7.0/refint/ScreamSoundAPI.dll
+/home/docato/Área de Trabalho/Estudos/C#/c-sharp-consumindo-api-gravando-arquivos-linq/ScreamSoundAPI/obj/Debug/net7.0/ScreamSoundAPI.pdb
+/home/docato/Área de Trabalho/Estudos/C#/c-sharp-consumindo-api-gravando-arquivos-linq/ScreamSoundAPI/obj/Debug/net7.0/ScreamSoundAPI.genruntimeconfig.cache
+/home/docato/Área de Trabalho/Estudos/C#/c-sharp-consumindo-api-gravando-arquivos-linq/ScreamSoundAPI/obj/Debug/net7.0/ref/ScreamSoundAPI.dll
