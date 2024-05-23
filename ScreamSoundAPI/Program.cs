@@ -8,17 +8,23 @@ using (HttpClient client = new HttpClient())
     {
         string response = await client.GetStringAsync("https://guilhermeonrails.github.io/api-csharp-songs/songs.json");
         var musics = JsonSerializer.Deserialize<List<Music>>(response)!;
+        musics[1].GetMusicDetails();
         FilterMusics.FilterAllMusicGenres(musics);
         FilterMusics.OrderMusicByArtist(musics);
         FilterMusics.FilterArtistsByMusicGenre(musics, "metal");
         FilterMusics.FilterMusicsFromArtist(musics, "Limp Bizkit");
+        FilterMusics.FilterMusicsSpecificKey(musics, "C#");
 
         var playlist = new MusicPlaylist("John");
-        playlist.AddFavoriteMusics(musics[0]);
-        playlist.AddFavoriteMusics(musics[1]);
-        playlist.AddFavoriteMusics(musics[2]);
-        playlist.AddFavoriteMusics(musics[3]);
+        for (var i = 0; i <= musics.Count; i++)
+        {
+            if (i >= 100) break;
+            playlist.AddFavoriteMusics(musics[i]);
+        }
+
         playlist.GetFavoriteMusics();
+
+        playlist.GenerateJsonFileWithFavoriteMusics();
     }
     catch (Exception exc)
     {

@@ -1,3 +1,5 @@
+using System.Text.Json;
+
 namespace ScreamSoundAPI.Models;
 
 internal class MusicPlaylist
@@ -23,5 +25,20 @@ internal class MusicPlaylist
         {
             Console.WriteLine($"- {music.Name} de {music.Artist}");
         }
+    }
+
+    public void GenerateJsonFileWithFavoriteMusics()
+    {
+        string json = JsonSerializer.Serialize(new
+        {
+            name = Name,
+            MusicPlaylist = FavoriteMusics
+        });
+
+        string fileName = $"./musicas-favoritas-{Name!.ToLower()}-{DateTime.Now.ToFileTime()}.json";
+
+        Console.WriteLine($"Gerando o arquivo no diretório {Path.GetFullPath(fileName)}");
+        File.WriteAllText(fileName, json);
+        Console.WriteLine($"O arquivo {fileName} foi criado com sucesso!");
     }
 }

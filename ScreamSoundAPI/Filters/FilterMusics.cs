@@ -55,4 +55,15 @@ internal class FilterMusics
             Console.WriteLine($"- {music.Name}");
         }
     }
+
+    public static void FilterMusicsSpecificKey(List<Music> musics, string key)
+    {
+        var musicKeyList = musics.Where(m => m.Tone.Equals(key)).Select(m => m.Name).ToList();
+
+        Console.WriteLine($"Exibindo as músicas que estão na tonalidade de {key}:");
+        foreach (var music in musicKeyList)
+        {
+            Console.WriteLine($"- {music}");
+        }
+    }
 }
