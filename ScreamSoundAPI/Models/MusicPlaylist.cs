@@ -18,27 +18,27 @@ internal class MusicPlaylist
         FavoriteMusics.Add(music);
     }
 
-    public void GetFavoriteMusics()
+    public void GetFavoriteMusics(string fileName)
     {
         Console.WriteLine($"Essas são as músicas favoritas do usuário {Name}:");
-        foreach (var music in FavoriteMusics)
+        string json = File.ReadAllText(fileName);
+        var favoriteMusics = JsonSerializer.Deserialize<List<Music>>(json);
+        foreach (var music in favoriteMusics!)
         {
-            Console.WriteLine($"- {music.Name} de {music.Artist}");
+            Console.WriteLine($"Música: {music.Name}\nArtista: {music.Artist}\n");
         }
     }
 
-    public void GenerateJsonFileWithFavoriteMusics()
+    public string GenerateJsonFileWithFavoriteMusics()
     {
-        string json = JsonSerializer.Serialize(new
-        {
-            name = Name,
-            MusicPlaylist = FavoriteMusics
-        });
+        string json = JsonSerializer.Serialize(FavoriteMusics);
 
         string fileName = $"./musicas-favoritas-{Name!.ToLower()}-{DateTime.Now.ToFileTime()}.json";
 
         Console.WriteLine($"Gerando o arquivo no diretório {Path.GetFullPath(fileName)}");
         File.WriteAllText(fileName, json);
         Console.WriteLine($"O arquivo {fileName} foi criado com sucesso!");
+
+        return fileName;
     }
 }

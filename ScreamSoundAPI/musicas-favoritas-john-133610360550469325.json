@@ -1,0 +1,802 @@
+[
+  {
+    "song": "#SELFIE - Original Mix",
+    "artist": "The Chainsmokers",
+    "duration_ms": 183750,
+    "genre": "pop, Dance/Electronic",
+    "key": 0,
+    "Tone": "C"
+  },
+  {
+    "song": "#thatPOWER",
+    "artist": "will.i.am",
+    "duration_ms": 279506,
+    "genre": "hip hop, pop",
+    "key": 6,
+    "Tone": "F#"
+  },
+  {
+    "song": "\u0027Till I Collapse",
+    "artist": "Eminem",
+    "duration_ms": 297786,
+    "genre": "hip hop",
+    "key": 1,
+    "Tone": "C#"
+  },
+  {
+    "song": "(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version",
+    "artist": "Sean Paul",
+    "duration_ms": 243880,
+    "genre": "hip hop, pop",
+    "key": 8,
+    "Tone": "G#"
+  },
+  {
+    "song": "...Ready For It?",
+    "artist": "Taylor Swift",
+    "duration_ms": 208186,
+    "genre": "pop",
+    "key": 2,
+    "Tone": "D"
+  },
+  {
+    "song": "03\u0027 Bonnie \u0026 Clyde",
+    "artist": "JAY-Z",
+    "duration_ms": 205560,
+    "genre": "hip hop",
+    "key": 9,
+    "Tone": "A"
+  },
+  {
+    "song": "1 Thing",
+    "artist": "Amerie",
+    "duration_ms": 238746,
+    "genre": "hip hop, pop, R\u0026B",
+    "key": 10,
+    "Tone": "A#"
+  },
+  {
+    "song": "1, 2 Step (feat. Missy Elliott) - Main",
+    "artist": "Ciara",
+    "duration_ms": 202213,
+    "genre": "pop, R\u0026B",
+    "key": 5,
+    "Tone": "F"
+  },
+  {
+    "song": "1, 2, 3 (feat. Jason Derulo \u0026 De La Ghetto)",
+    "artist": "Sof\u00EDa Reyes",
+    "duration_ms": 201526,
+    "genre": "pop, latin",
+    "key": 1,
+    "Tone": "C#"
+  },
+  {
+    "song": "17",
+    "artist": "MK",
+    "duration_ms": 196489,
+    "genre": "pop, Dance/Electronic",
+    "key": 0,
+    "Tone": "C"
+  },
+  {
+    "song": "1955",
+    "artist": "Hilltop Hoods",
+    "duration_ms": 239280,
+    "genre": "hip hop, pop",
+    "key": 11,
+    "Tone": "B"
+  },
+  {
+    "song": "1973",
+    "artist": "James Blunt",
+    "duration_ms": 280026,
+    "genre": "pop",
+    "key": 9,
+    "Tone": "A"
+  },
+  {
+    "song": "2 On (feat. ScHoolboy Q)",
+    "artist": "Tinashe",
+    "duration_ms": 227000,
+    "genre": "hip hop, pop, R\u0026B, Dance/Electronic",
+    "key": 9,
+    "Tone": "A"
+  },
+  {
+    "song": "2 Phones",
+    "artist": "Kevin Gates",
+    "duration_ms": 240000,
+    "genre": "hip hop, pop",
+    "key": 7,
+    "Tone": "G"
+  },
+  {
+    "song": "2002",
+    "artist": "Anne-Marie",
+    "duration_ms": 186986,
+    "genre": "pop, Dance/Electronic",
+    "key": 1,
+    "Tone": "C#"
+  },
+  {
+    "song": "21 Guns",
+    "artist": "Green Day",
+    "duration_ms": 321093,
+    "genre": "rock",
+    "key": 5,
+    "Tone": "F"
+  },
+  {
+    "song": "21 Questions",
+    "artist": "50 Cent",
+    "duration_ms": 224440,
+    "genre": "hip hop, pop",
+    "key": 6,
+    "Tone": "F#"
+  },
+  {
+    "song": "21 Seconds",
+    "artist": "So Solid Crew",
+    "duration_ms": 302826,
+    "genre": "Dance/Electronic",
+    "key": 1,
+    "Tone": "C#"
+  },
+  {
+    "song": "212",
+    "artist": "Azealia Banks",
+    "duration_ms": 204956,
+    "genre": "hip hop, pop, R\u0026B",
+    "key": 11,
+    "Tone": "B"
+  },
+  {
+    "song": "22",
+    "artist": "Taylor Swift",
+    "duration_ms": 232120,
+    "genre": "pop",
+    "key": 7,
+    "Tone": "G"
+  },
+  {
+    "song": "24K Magic",
+    "artist": "Bruno Mars",
+    "duration_ms": 225983,
+    "genre": "pop",
+    "key": 1,
+    "Tone": "C#"
+  },
+  {
+    "song": "2U (feat. Justin Bieber)",
+    "artist": "David Guetta",
+    "duration_ms": 194896,
+    "genre": "hip hop, pop, Dance/Electronic",
+    "key": 8,
+    "Tone": "G#"
+  },
+  {
+    "song": "3 Nights",
+    "artist": "Dominic Fike",
+    "duration_ms": 177666,
+    "genre": "rock, pop",
+    "key": 7,
+    "Tone": "G"
+  },
+  {
+    "song": "3005",
+    "artist": "Childish Gambino",
+    "duration_ms": 235662,
+    "genre": "hip hop",
+    "key": 6,
+    "Tone": "F#"
+  },
+  {
+    "song": "4 Minutes (feat. Justin Timberlake \u0026 Timbaland)",
+    "artist": "Madonna",
+    "duration_ms": 189693,
+    "genre": "pop",
+    "key": 2,
+    "Tone": "D"
+  },
+  {
+    "song": "4 My People (feat. Eve)",
+    "artist": "Missy Elliott",
+    "duration_ms": 289373,
+    "genre": "hip hop, pop, R\u0026B",
+    "key": 1,
+    "Tone": "C#"
+  },
+  {
+    "song": "6 Foot 7 Foot",
+    "artist": "Lil Wayne",
+    "duration_ms": 248586,
+    "genre": "hip hop, pop",
+    "key": 2,
+    "Tone": "D"
+  },
+  {
+    "song": "679 (feat. Remy Boyz)",
+    "artist": "Fetty Wap",
+    "duration_ms": 196693,
+    "genre": "hip hop, pop",
+    "key": 7,
+    "Tone": "G"
+  },
+  {
+    "song": "7 Days",
+    "artist": "Craig David",
+    "duration_ms": 235133,
+    "genre": "hip hop, pop, R\u0026B",
+    "key": 4,
+    "Tone": "E"
+  },
+  {
+    "song": "7 rings",
+    "artist": "Ariana Grande",
+    "duration_ms": 178626,
+    "genre": "pop",
+    "key": 1,
+    "Tone": "C#"
+  },
+  {
+    "song": "7/11",
+    "artist": "Beyonc\u00E9",
+    "duration_ms": 213506,
+    "genre": "pop, R\u0026B",
+    "key": 9,
+    "Tone": "A"
+  },
+  {
+    "song": "A Little Less Conversation - JXL Radio Edit Remix",
+    "artist": "Elvis Presley",
+    "duration_ms": 211506,
+    "genre": "rock, easy listening",
+    "key": 4,
+    "Tone": "E"
+  },
+  {
+    "song": "A Milli",
+    "artist": "Lil Wayne",
+    "duration_ms": 221840,
+    "genre": "hip hop, pop",
+    "key": 6,
+    "Tone": "F#"
+  },
+  {
+    "song": "A Moment Like This",
+    "artist": "Leona Lewis",
+    "duration_ms": 257293,
+    "genre": "pop, R\u0026B",
+    "key": 8,
+    "Tone": "G#"
+  },
+  {
+    "song": "A New Day Has Come - Radio Remix",
+    "artist": "C\u00E9line Dion",
+    "duration_ms": 259773,
+    "genre": "pop",
+    "key": 6,
+    "Tone": "F#"
+  },
+  {
+    "song": "A Sky Full of Stars",
+    "artist": "Coldplay",
+    "duration_ms": 267866,
+    "genre": "rock, pop",
+    "key": 6,
+    "Tone": "F#"
+  },
+  {
+    "song": "A Thousand Miles",
+    "artist": "Vanessa Carlton",
+    "duration_ms": 237493,
+    "genre": "Folk/Acoustic, pop",
+    "key": 11,
+    "Tone": "B"
+  },
+  {
+    "song": "A Thousand Years",
+    "artist": "Christina Perri",
+    "duration_ms": 285120,
+    "genre": "pop",
+    "key": 10,
+    "Tone": "A#"
+  },
+  {
+    "song": "A Woman\u0027s Worth",
+    "artist": "Alicia Keys",
+    "duration_ms": 303333,
+    "genre": "pop, R\u0026B",
+    "key": 4,
+    "Tone": "E"
+  },
+  {
+    "song": "AM To PM",
+    "artist": "Christina Milian",
+    "duration_ms": 231213,
+    "genre": "hip hop, pop, R\u0026B",
+    "key": 10,
+    "Tone": "A#"
+  },
+  {
+    "song": "About You Now",
+    "artist": "Sugababes",
+    "duration_ms": 212400,
+    "genre": "pop, R\u0026B",
+    "key": 1,
+    "Tone": "C#"
+  },
+  {
+    "song": "Acceptable in the 80\u0027s",
+    "artist": "Calvin Harris",
+    "duration_ms": 333680,
+    "genre": "hip hop, pop, Dance/Electronic",
+    "key": 7,
+    "Tone": "G"
+  },
+  {
+    "song": "Adan y Eva",
+    "artist": "Paulo Londra",
+    "duration_ms": 256971,
+    "genre": "hip hop, latin, Dance/Electronic",
+    "key": 1,
+    "Tone": "C#"
+  },
+  {
+    "song": "Addicted",
+    "artist": "Saving Abel",
+    "duration_ms": 222826,
+    "genre": "rock, metal",
+    "key": 7,
+    "Tone": "G"
+  },
+  {
+    "song": "Addictive",
+    "artist": "Truth Hurts",
+    "duration_ms": 226440,
+    "genre": "pop, R\u0026B",
+    "key": 11,
+    "Tone": "B"
+  },
+  {
+    "song": "Adventure of a Lifetime",
+    "artist": "Coldplay",
+    "duration_ms": 263786,
+    "genre": "rock, pop",
+    "key": 7,
+    "Tone": "G"
+  },
+  {
+    "song": "Again",
+    "artist": "Lenny Kravitz",
+    "duration_ms": 231666,
+    "genre": "rock, pop",
+    "key": 2,
+    "Tone": "D"
+  },
+  {
+    "song": "Against All Odds (Take A Look at Me Now) (feat. Westlife)",
+    "artist": "Mariah Carey",
+    "duration_ms": 199480,
+    "genre": "pop, R\u0026B",
+    "key": 1,
+    "Tone": "C#"
+  },
+  {
+    "song": "Ai Se Eu Te Pego - Live",
+    "artist": "Michel Tel\u00F3",
+    "duration_ms": 166866,
+    "genre": "country, latin",
+    "key": 11,
+    "Tone": "B"
+  },
+  {
+    "song": "Ain\u0027t It Funny",
+    "artist": "Jennifer Lopez",
+    "duration_ms": 246160,
+    "genre": "hip hop, pop, R\u0026B",
+    "key": 5,
+    "Tone": "F"
+  },
+  {
+    "song": "Ain\u0027t My Fault",
+    "artist": "Zara Larsson",
+    "duration_ms": 224030,
+    "genre": "pop, Dance/Electronic",
+    "key": 6,
+    "Tone": "F#"
+  },
+  {
+    "song": "Ain\u0027t No Other Man",
+    "artist": "Christina Aguilera",
+    "duration_ms": 228906,
+    "genre": "pop",
+    "key": 7,
+    "Tone": "G"
+  },
+  {
+    "song": "Ain\u0027t Nobody (Loves Me Better) (feat. Jasmine Thompson)",
+    "artist": "Felix Jaehn",
+    "duration_ms": 186146,
+    "genre": "hip hop, pop, Dance/Electronic",
+    "key": 2,
+    "Tone": "D"
+  },
+  {
+    "song": "Air Force Ones",
+    "artist": "Nelly",
+    "duration_ms": 304000,
+    "genre": "hip hop, pop, R\u0026B",
+    "key": 4,
+    "Tone": "E"
+  },
+  {
+    "song": "Airplanes (feat. Hayley Williams of Paramore)",
+    "artist": "B.o.B",
+    "duration_ms": 180480,
+    "genre": "hip hop, pop",
+    "key": 6,
+    "Tone": "F#"
+  },
+  {
+    "song": "Alarm",
+    "artist": "Anne-Marie",
+    "duration_ms": 205593,
+    "genre": "pop, Dance/Electronic",
+    "key": 0,
+    "Tone": "C"
+  },
+  {
+    "song": "Alejandro",
+    "artist": "Lady Gaga",
+    "duration_ms": 274213,
+    "genre": "pop",
+    "key": 11,
+    "Tone": "B"
+  },
+  {
+    "song": "All About That Bass",
+    "artist": "Meghan Trainor",
+    "duration_ms": 187920,
+    "genre": "pop",
+    "key": 9,
+    "Tone": "A"
+  },
+  {
+    "song": "All Day And Night",
+    "artist": "Jax Jones",
+    "duration_ms": 169303,
+    "genre": "hip hop, pop, Dance/Electronic",
+    "key": 1,
+    "Tone": "C#"
+  },
+  {
+    "song": "All Eyes on You (feat. Chris Brown \u0026 Nicki Minaj)",
+    "artist": "Meek Mill",
+    "duration_ms": 223973,
+    "genre": "hip hop, pop",
+    "key": 11,
+    "Tone": "B"
+  },
+  {
+    "song": "All Falls Down",
+    "artist": "Kanye West",
+    "duration_ms": 223506,
+    "genre": "hip hop",
+    "key": 8,
+    "Tone": "G#"
+  },
+  {
+    "song": "All For You",
+    "artist": "Janet Jackson",
+    "duration_ms": 329933,
+    "genre": "pop, R\u0026B",
+    "key": 2,
+    "Tone": "D"
+  },
+  {
+    "song": "All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg \u0026 Rick Ross)",
+    "artist": "DJ Khaled",
+    "duration_ms": 232506,
+    "genre": "hip hop, pop",
+    "key": 10,
+    "Tone": "A#"
+  },
+  {
+    "song": "All I Ever Wanted - Radio Edit",
+    "artist": "Basshunter",
+    "duration_ms": 176453,
+    "genre": "pop",
+    "key": 4,
+    "Tone": "E"
+  },
+  {
+    "song": "All I Have (feat. LL Cool J)",
+    "artist": "Jennifer Lopez",
+    "duration_ms": 254466,
+    "genre": "hip hop, pop, R\u0026B",
+    "key": 1,
+    "Tone": "C#"
+  },
+  {
+    "song": "All I Want - Sunship Radio Edit",
+    "artist": "Mis-Teeq",
+    "duration_ms": 207400,
+    "genre": "pop, Dance/Electronic",
+    "key": 9,
+    "Tone": "A"
+  },
+  {
+    "song": "All In My Head (Flex) (feat. Fetty Wap)",
+    "artist": "Fifth Harmony",
+    "duration_ms": 210573,
+    "genre": "pop",
+    "key": 0,
+    "Tone": "C"
+  },
+  {
+    "song": "All Night",
+    "artist": "The Vamps",
+    "duration_ms": 197640,
+    "genre": "pop",
+    "key": 8,
+    "Tone": "G#"
+  },
+  {
+    "song": "All Of The Lights",
+    "artist": "Kanye West",
+    "duration_ms": 299613,
+    "genre": "hip hop",
+    "key": 1,
+    "Tone": "C#"
+  },
+  {
+    "song": "All Rise",
+    "artist": "Blue",
+    "duration_ms": 223546,
+    "genre": "pop",
+    "key": 5,
+    "Tone": "F"
+  },
+  {
+    "song": "All The Right Moves",
+    "artist": "OneRepublic",
+    "duration_ms": 238000,
+    "genre": "pop",
+    "key": 0,
+    "Tone": "C"
+  },
+  {
+    "song": "All The Small Things",
+    "artist": "blink-182",
+    "duration_ms": 167066,
+    "genre": "rock, pop",
+    "key": 0,
+    "Tone": "C"
+  },
+  {
+    "song": "All The Stars (with SZA)",
+    "artist": "Kendrick Lamar",
+    "duration_ms": 232186,
+    "genre": "hip hop",
+    "key": 8,
+    "Tone": "G#"
+  },
+  {
+    "song": "All The Things She Said",
+    "artist": "t.A.T.u.",
+    "duration_ms": 214440,
+    "genre": "pop",
+    "key": 5,
+    "Tone": "F"
+  },
+  {
+    "song": "All Time Low",
+    "artist": "The Wanted",
+    "duration_ms": 205200,
+    "genre": "pop, Dance/Electronic",
+    "key": 8,
+    "Tone": "G#"
+  },
+  {
+    "song": "All Time Low",
+    "artist": "Jon Bellion",
+    "duration_ms": 217603,
+    "genre": "hip hop, pop",
+    "key": 0,
+    "Tone": "C"
+  },
+  {
+    "song": "All You Wanted",
+    "artist": "Michelle Branch",
+    "duration_ms": 217680,
+    "genre": "pop, Folk/Acoustic",
+    "key": 8,
+    "Tone": "G#"
+  },
+  {
+    "song": "All of Me",
+    "artist": "John Legend",
+    "duration_ms": 269560,
+    "genre": "pop, R\u0026B",
+    "key": 8,
+    "Tone": "G#"
+  },
+  {
+    "song": "Almost Here",
+    "artist": "Brian McFadden",
+    "duration_ms": 229826,
+    "genre": "set()",
+    "key": 9,
+    "Tone": "A"
+  },
+  {
+    "song": "Alone",
+    "artist": "Marshmello",
+    "duration_ms": 273802,
+    "genre": "pop, Dance/Electronic",
+    "key": 2,
+    "Tone": "D"
+  },
+  {
+    "song": "Alors on danse - Radio Edit",
+    "artist": "Stromae",
+    "duration_ms": 206066,
+    "genre": "pop",
+    "key": 1,
+    "Tone": "C#"
+  },
+  {
+    "song": "Already Gone",
+    "artist": "Kelly Clarkson",
+    "duration_ms": 281560,
+    "genre": "pop, R\u0026B",
+    "key": 9,
+    "Tone": "A"
+  },
+  {
+    "song": "Always On Time",
+    "artist": "Ja Rule",
+    "duration_ms": 245133,
+    "genre": "hip hop, pop, R\u0026B",
+    "key": 5,
+    "Tone": "F"
+  },
+  {
+    "song": "Am I Wrong",
+    "artist": "Nico \u0026 Vinz",
+    "duration_ms": 245866,
+    "genre": "hip hop, pop",
+    "key": 8,
+    "Tone": "G#"
+  },
+  {
+    "song": "Amazing",
+    "artist": "George Michael",
+    "duration_ms": 265826,
+    "genre": "set()",
+    "key": 10,
+    "Tone": "A#"
+  },
+  {
+    "song": "America",
+    "artist": "Razorlight",
+    "duration_ms": 249760,
+    "genre": "rock, pop",
+    "key": 2,
+    "Tone": "D"
+  },
+  {
+    "song": "American Boy",
+    "artist": "Estelle",
+    "duration_ms": 284733,
+    "genre": "R\u0026B",
+    "key": 0,
+    "Tone": "C"
+  },
+  {
+    "song": "American Idiot",
+    "artist": "Green Day",
+    "duration_ms": 176346,
+    "genre": "rock",
+    "key": 1,
+    "Tone": "C#"
+  },
+  {
+    "song": "American Pie",
+    "artist": "Madonna",
+    "duration_ms": 273533,
+    "genre": "pop",
+    "key": 5,
+    "Tone": "F"
+  },
+  {
+    "song": "Anaconda",
+    "artist": "Nicki Minaj",
+    "duration_ms": 260240,
+    "genre": "hip hop, pop",
+    "key": 9,
+    "Tone": "A"
+  },
+  {
+    "song": "Angel",
+    "artist": "Amanda Perez",
+    "duration_ms": 218760,
+    "genre": "pop, R\u0026B",
+    "key": 0,
+    "Tone": "C"
+  },
+  {
+    "song": "Animal",
+    "artist": "Neon Trees",
+    "duration_ms": 212306,
+    "genre": "rock, pop",
+    "key": 5,
+    "Tone": "F"
+  },
+  {
+    "song": "Animals",
+    "artist": "Maroon 5",
+    "duration_ms": 231013,
+    "genre": "pop",
+    "key": 4,
+    "Tone": "E"
+  },
+  {
+    "song": "Animals - Radio Edit",
+    "artist": "Martin Garrix",
+    "duration_ms": 176117,
+    "genre": "pop, Dance/Electronic",
+    "key": 1,
+    "Tone": "C#"
+  },
+  {
+    "song": "Another Chance",
+    "artist": "Roger Sanchez",
+    "duration_ms": 452906,
+    "genre": "Dance/Electronic",
+    "key": 3,
+    "Tone": "D#"
+  },
+  {
+    "song": "Another Day in Paradise - R\u0026B-Version",
+    "artist": "Brandy",
+    "duration_ms": 271626,
+    "genre": "hip hop, pop, R\u0026B",
+    "key": 6,
+    "Tone": "F#"
+  },
+  {
+    "song": "Another Love",
+    "artist": "Tom Odell",
+    "duration_ms": 244360,
+    "genre": "pop",
+    "key": 4,
+    "Tone": "E"
+  },
+  {
+    "song": "Another Way to Die",
+    "artist": "Jack White",
+    "duration_ms": 262240,
+    "genre": "rock, blues",
+    "key": 4,
+    "Tone": "E"
+  },
+  {
+    "song": "Answerphone (feat. Yxng Bane)",
+    "artist": "Banx \u0026 Ranx",
+    "duration_ms": 190920,
+    "genre": "Dance/Electronic",
+    "key": 1,
+    "Tone": "C#"
+  },
+  {
+    "song": "Antidote",
+    "artist": "Travis Scott",
+    "duration_ms": 262693,
+    "genre": "hip hop, Dance/Electronic",
+    "key": 1,
+    "Tone": "C#"
+  }
+]

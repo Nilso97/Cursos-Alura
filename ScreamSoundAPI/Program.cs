@@ -21,9 +21,8 @@ using (HttpClient client = new HttpClient())
             playlist.AddFavoriteMusics(musics[i]);
         }
 
-        playlist.GetFavoriteMusics();
-
-        playlist.GenerateJsonFileWithFavoriteMusics();
+        string fileName = playlist.GenerateJsonFileWithFavoriteMusics();
+        playlist.GetFavoriteMusics(fileName);
     }
     catch (Exception exc)
     {
